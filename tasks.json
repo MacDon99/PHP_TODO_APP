@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "label": "Umyć zęby"
+    },
+    {
+        "id": 1,
+        "label": "Spytać sąsiada o dżem"
+    },
+    {
+        "id": 2,
+        "label": "Namówić Kamila na wyjaz na ryby"
+    },
+    {
+        "id": 3,
+        "label": "Zadzwonić do grubego"
+    },
+    {
+        "id": 4,
+        "label": "Zjeść obiad"
+    }
+]
