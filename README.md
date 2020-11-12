@@ -6,6 +6,7 @@ Main idea was to implement an app that could help with organising your tasks to 
 PHP with files support
 ##How to run
 To run the project you have to install xampp, then run xampp controll panel and turn on the Apache Module.
+
 ##Usage
 
 ![MainView](./images/items.png)
