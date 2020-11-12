@@ -7,7 +7,7 @@ PHP with files support
 ##How to run
 To run the project you have to install xampp, then run xampp controll panel and turn on the Apache Module.
 
-##Usage
+## Usage
 
 ![MainView](./images/items.png)
 
