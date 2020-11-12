@@ -36,7 +36,8 @@ foreach ($exampleTasks as &$task) {
 unset($task);
 
 if (isset($_GET["newItem"])) {
-    $exampleTasks[] = ["id" => $maxId + 1, "label" => $_GET["newItem"]];
+    if(strlen($_GET["newItem"]) > 0)
+        $exampleTasks[] = ["id" => $maxId + 1, "label" => $_GET["newItem"]];
 }
 $tasksFromFile = file($filePath);
 
